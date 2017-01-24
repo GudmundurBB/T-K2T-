@@ -12,3 +12,15 @@
 Nefnið dæmi um báðar gerðir af spurningum. Er github heimskulegt? Já. Hverjir eru kostirnir við github? engir
 8. Hvað eru jaðartæki? lyklaborð,mús,hátalara,fjarstýringar
 9. Nefndu þrjú dæmi um inntakstæki. mús lyklaborð og fjarstýringar.
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
+leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
+fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+CPU I7 6700K TOLVUTÆKNI 48.900 = einn af bestu örgjöfum sem er hægt að fá fyrir peninginn.
+RAM 16GB DDR4 3000Mhz ATT 16.950 = 16gb er meira en nóg fyrir leikjatölvu og það er líka DDR4
+SKJÁKORT GTX 1070 8GB COMPUTER.IS 66.900 = skjákortið er VR ready og hondlar alla leiki í dag á HIGH ef ekki ultra.
+SSD 500GB SAMSUNG 850 EVO ATT 26.950= 500gb er meira en nóg og ssd fyrir hraðan
+MÓÐURBORÐ ASUS Z170-PRO GAMING ATT 27.855 = fínt móðurborð fyrir peninginn
+CORSAIR AX860 860W TOLVUTÆKNI 35.900= ein af bestu psu sem eru til og er gold certified
+COOLER MASTER SILENCIO 352 TOLVULISTINN 13.491= fínn kassi og hljóðlátur.
+SAMTALS=236.945
