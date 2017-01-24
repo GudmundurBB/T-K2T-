@@ -5,3 +5,5 @@
    maður lendir ekki í vírusum.
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
    verjast því þegar unnið er með tölvubúnað?	Electro sensitive device sem eru hlutir sem eru ekki hannaðir fyrir lítinn raka.
+5. Hvað þarf að hafa í huga við val á spennugjöfum? powerið sem hann getur gefið út fyrir tölvuna og hvort hann höndli það svo er líka alltaf gott að velja platinum eða 
+   gold certified. 
