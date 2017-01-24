@@ -3,3 +3,5 @@
    einhverri tegund.
 3. Hvað er fyrirbyggjandi viðhald?: Rykþrif á tölvum backup á gögnum og antivirus checkup á tölvum svo maður sé ekki að lenda í veseni og líka svo 
    maður lendir ekki í vírusum.
+4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
+   verjast því þegar unnið er með tölvubúnað?	Electro sensitive device sem eru hlutir sem eru ekki hannaðir fyrir lítinn raka.
