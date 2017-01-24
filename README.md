@@ -11,4 +11,4 @@
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? open ended er ævisaga mannsins, closed ended er já eða nei.
 Nefnið dæmi um báðar gerðir af spurningum. Er github heimskulegt? Já. Hverjir eru kostirnir við github? engir
 8. Hvað eru jaðartæki? lyklaborð,mús,hátalara,fjarstýringar
-
+9. Nefndu þrjú dæmi um inntakstæki. mús lyklaborð og fjarstýringar.
